@@ -1,0 +1,3 @@
+pip install langchain
+pip install pdfplumber
+pip install streamlit
